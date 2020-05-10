@@ -1,0 +1,23 @@
+# Site settings
+title: Astrid Brezina
+email: info@astridbrezina.de
+description: Something about me.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://astridbrezina.de" # the base hostname & protocol for your site
+
+# Identity
+your-name: Astrid Brezina
+your-title: Software Engineer
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/abrezina
+gitlab_url: 
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
+markdown: kramdown
