@@ -172,7 +172,7 @@
 		}
 
 		a:hover {
-			color: #e80088;
+			color: #00BFFF;
 		}
 
 	strong, b {
@@ -322,13 +322,13 @@
 				}
 
 					ul.icons li a:hover i {
-					color: #e80088;
+					color: #00BFFF;
 				}
 
 
 
 					ul.icons li a:hover {
-						border-color: #e80088;
+						border-color: #00BFFF;
 					}
 
 			@media screen and (max-width: 480px) {
